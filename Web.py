@@ -12,11 +12,11 @@ N = 20
 
 # Load the tree image
 # Load the tree image
-tree_image = Image.open("CoBeQuangKhanDo/Image/tree.png")
-girl_image = Image.open("CoBeQuangKhanDo/Image/girl.png")
-grandma_image = Image.open("CoBeQuangKhanDo/Image/grandma.png")
-step_image = Image.open("CoBeQuangKhanDo/Image/step.png")
-wolf_image = Image.open("CoBeQuangKhanDo/Image/wolf.png")
+tree_image = Image.open("Image/tree.png")
+girl_image = Image.open("Image/girl.png")
+grandma_image = Image.open("Image/grandma.png")
+step_image = Image.open("Image/step.png")
+wolf_image = Image.open("Image/wolf.png")
 
 
 # Define global variables for the plot
